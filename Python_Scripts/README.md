@@ -6,5 +6,5 @@ This folder includes the python script that I used to calculate the results.
 
 ## Important links:
 
-- (Install gym-unity)[https://github.com/Unity-Technologies/ml-agents/tree/master/gym-unity]
-- (Usefull gym-unity commands)[https://github.com/Unity-Technologies/ml-agents/blob/master/notebooks/getting-started-gym.ipynb]
+- [Install gym-unity](https://github.com/Unity-Technologies/ml-agents/tree/master/gym-unity)
+- [Usefull gym-unity commands](https://github.com/Unity-Technologies/ml-agents/blob/master/notebooks/getting-started-gym.ipynb)
