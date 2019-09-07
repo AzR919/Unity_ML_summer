@@ -1,5 +1,8 @@
-## Unity ML Agents
+# Unity ML Agents
 
-# Documentation
+### What this repo includes:
 
-Table of index
+- Directory containing the Unity Projecys that I created during the summer
+  - Links to some tutorials that helped in making the projects
+- The python script that I used to caculate the result
+- The Results
